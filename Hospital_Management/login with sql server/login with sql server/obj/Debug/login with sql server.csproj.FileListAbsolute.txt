@@ -1,0 +1,46 @@
+C:\Users\cabir\source\repos\login with sql server\login with sql server\bin\Debug\login with sql server.exe.config
+C:\Users\cabir\source\repos\login with sql server\login with sql server\bin\Debug\login with sql server.exe
+C:\Users\cabir\source\repos\login with sql server\login with sql server\bin\Debug\login with sql server.pdb
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.AssemblyReference.cache
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Form1.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Properties.Resources.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.GenerateResource.cache
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.CoreCompileInputs.cache
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login with sql server.exe
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login with sql server.pdb
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Main.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.addoctor.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.mange_doctor.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Editdoctor.resources
+C:\Users\cabir\source\repos\login with sql server\login with sql server\obj\Debug\login_with_sql_server.patient.resources
+D:\login with sql server\login with sql server\bin\Debug\login with sql server.exe.config
+D:\login with sql server\login with sql server\bin\Debug\login with sql server.exe
+D:\login with sql server\login with sql server\bin\Debug\login with sql server.pdb
+D:\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.AssemblyReference.cache
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.addoctor.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Editdoctor.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Form1.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Main.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.mange_doctor.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.patient.resources
+D:\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Properties.Resources.resources
+D:\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.GenerateResource.cache
+D:\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.CoreCompileInputs.cache
+D:\login with sql server\login with sql server\obj\Debug\login with sql server.exe
+D:\login with sql server\login with sql server\obj\Debug\login with sql server.pdb
+E:\Users\gaber\Desktop\login with sql server\login with sql server\bin\Debug\login with sql server.exe.config
+E:\Users\gaber\Desktop\login with sql server\login with sql server\bin\Debug\login with sql server.exe
+E:\Users\gaber\Desktop\login with sql server\login with sql server\bin\Debug\login with sql server.pdb
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.AssemblyReference.cache
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.addoctor.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Editdoctor.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Form1.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Main.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.mange_doctor.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.patient.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.Properties.Resources.resources
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.GenerateResource.cache
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login with sql server.csproj.CoreCompileInputs.cache
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login with sql server.exe
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login with sql server.pdb
+E:\Users\gaber\Desktop\login with sql server\login with sql server\obj\Debug\login_with_sql_server.addpro.resources
